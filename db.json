@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": 1,
       "createDate": "",
       "name": "Jack",
       "email": "springfield0329@gmail.com",
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "createDate": "",
       "name": "Steve",
       "email": "steve5566@gmail.com",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
       "createDate": "",
       "name": "June",
       "email": "june@gmail.com",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": 4,
       "createDate": "",
       "name": "Annie",
       "email": "annie@gmail.com",
