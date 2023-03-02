@@ -53,57 +53,85 @@
   ],
   "activities": [
     {
-      "id": "1",
+      "id": 1,
       "title": "宜蘭外澳衝浪",
       "userId": "1",
       "location": "",
+      "address": "",
+      "mainImg": "",
       "imgs": [],
       "description": "",
       "content": "",
-      "startDate": "",
+      "date": "",
+      "startTime": {
+        "time": "07:00"
+      },
       "expiryDate": "",
       "maxJoinNum": 8,
       "cost": 1000,
+      "paymentMethod": "",
+      "category": [
+        "戶外運動",
+        "室內運動",
+        "水上運動"
+      ],
       "tags": [
         "戶外運動",
         "衝浪",
         "水上活動",
         "陽光"
       ],
+      "groupId": "",
       "updateDate": "2023-03-15"
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "台灣第一高山玉山登山",
       "userId": "2",
+      "mainImg": "",
       "imgs": [],
       "location": "",
+      "address": "",
       "description": "",
       "content": "",
-      "startDate": "",
+      "date": "",
+      "startTime": {
+        "time": "07:00"
+      },
       "expiryDate": "",
       "maxJoinNum": 10,
       "cost": 3000,
+      "paymentMethod": "",
+      "category": [
+        "戶外運動",
+        "室內運動"
+      ],
       "tags": [
         "戶外運動",
         "登山",
         "自然風景",
         "挑戰"
       ],
+      "groupId": "",
       "updateDate": "2023-03-15"
     },
     {
-      "id": "3",
+      "id": 3,
       "title": "北海道滑雪之旅",
       "userId": "3",
       "mainImg": "",
       "imgs": [],
       "location": "",
+      "address": "",
       "description": "一趟讓您深刻體驗北海道豪雪的滑雪之旅！",
       "content": "這次滑雪之旅讓您可以盡情享受粉雪與溫泉的療癒，踏上陌生的土地，感受異國風情，讓身心靈都能得到豐盈的滿足。",
-      "startDate": "2023-12-23",
+      "date": "2023-12-23",
+      "startTime": {
+        "time": "07:00"
+      },
       "maxJoinNum": 12,
       "cost": 8000,
+      "paymentMethod": "",
       "category": [
         "戶外運動",
         "室內運動"
@@ -114,24 +142,25 @@
         "冬季活動",
         "旅遊"
       ],
+      "groupId": "",
       "updateDate": "2023-03-15"
     }
   ],
   "orders": [
     {
-      "id": "1",
+      "id": 1,
       "userId": "1",
       "activityId": "2",
       "orderDate": "2023-03-15"
     },
     {
-      "id": "2",
+      "id": 2,
       "userId": "2",
       "activityId": "2",
       "orderDate": "2023-03-15"
     },
     {
-      "id": "3",
+      "id": 3,
       "userId": "3",
       "activityId": "2",
       "orderDate": "2023-03-15"
@@ -139,14 +168,14 @@
   ],
   "locations": [
     {
-      "id": "1",
+      "id": 1,
       "name": "",
       "address": ""
     }
   ],
   "messages": [
     {
-      "id": "1",
+      "id": 1,
       "userId": "1",
       "activityId": "2",
       "content": "",
@@ -155,7 +184,7 @@
   ],
   "messageReply": [
     {
-      "id": "1",
+      "id": 1,
       "userId": "1",
       "messageId": "2",
       "content": "",
@@ -212,5 +241,8 @@
     "泰拳",
     "自由搏擊",
     "壁球"
+  ],
+  "groups": [
+    {}
   ]
 }
