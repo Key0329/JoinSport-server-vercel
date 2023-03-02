@@ -30,8 +30,20 @@
       "id": "3",
       "createDate": "",
       "name": "June",
-      "email": "June@gmail.com",
+      "email": "june@gmail.com",
       "password": "456",
+      "img": "",
+      "favoriteSports": [
+        "街舞",
+        "SUP"
+      ]
+    },
+    {
+      "id": "4",
+      "createDate": "",
+      "name": "Annie",
+      "email": "annie@gmail.com",
+      "password": "456123",
       "img": "",
       "favoriteSports": [
         "街舞",
