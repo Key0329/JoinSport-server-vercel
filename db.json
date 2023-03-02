@@ -1,11 +1,190 @@
-{"users": [
-    
+{
+  "users": [
+    {
+      "id": "1",
+      "createDate": "",
+      "name": "Jack",
+      "email": "springfield0329@gmail.com",
+      "password": "123456",
+      "img": "",
+      "favoriteSports": [
+        "攀岩",
+        "衝浪",
+        "棒球"
+      ]
+    },
+    {
+      "id": "2",
+      "createDate": "",
+      "name": "Steve",
+      "email": "steve5566@gmail.com",
+      "password": "123",
+      "img": "",
+      "favoriteSports": [
+        "排球",
+        "羽球",
+        "桌球 "
+      ]
+    },
+    {
+      "id": "3",
+      "createDate": "",
+      "name": "June",
+      "email": "June@gmail.com",
+      "password": "456",
+      "img": "",
+      "favoriteSports": [
+        "街舞",
+        "SUP"
+      ]
+    }
   ],
-  "posts": [
-    { "id": 1, "title": "json-server22", "author": "typicode" }
+  "activities": [
+    {
+      "id": "1",
+      "title": "宜蘭外澳衝浪",
+      "userId": "1",
+      "locationId": "",
+      "imgs": [],
+      "description": "",
+      "content": "",
+      "startDate": "",
+      "expiryDate": "",
+      "maxJoinNum": 8,
+      "cost": 1000,
+      "tags": [
+        "戶外運動",
+        "衝浪",
+        "水上活動",
+        "陽光"
+      ],
+      "updateDate": "2023-03-15"
+    },
+    {
+      "id": "2",
+      "title": "台灣第一高山玉山登山",
+      "userId": "2",
+      "imgs": [],
+      "locationId": "",
+      "description": "",
+      "content": "",
+      "startDate": "",
+      "expiryDate": "",
+      "maxJoinNum": 10,
+      "cost": 3000,
+      "tags": [
+        "戶外運動",
+        "登山",
+        "自然風景",
+        "挑戰"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "北海道滑雪之旅",
+      "userId": "3",
+      "mainImg": "",
+      "imgs": [],
+      "location": "",
+      "description": "一趟讓您深刻體驗北海道豪雪的滑雪之旅！",
+      "content": "這次滑雪之旅讓您可以盡情享受粉雪與溫泉的療癒，踏上陌生的土地，感受異國風情，讓身心靈都能得到豐盈的滿足。",
+      "startDate": "2023-12-23",
+      "maxJoinNum": 12,
+      "cost": 8000,
+      "category": [
+        "戶外運動",
+        "室內運動"
+      ],
+      "tags": [
+        "戶外運動",
+        "滑雪",
+        "冬季活動",
+        "旅遊"
+      ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "orders": [
+    {
+      "id": "1",
+      "userId": "1",
+      "activityId": "2",
+      "orderDate": "2023-03-15"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "locations": [
+    {
+      "id": "1",
+      "name": "",
+      "address": ""
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "userId": "1",
+      "activityId": "2",
+      "content": "",
+      "updateDate": "2023-03-15"
+    }
+  ],
+  "messageReply": [
+    {
+      "id": "1",
+      "userId": "1",
+      "messageId": "2",
+      "content": "",
+      "updateDate": "2023-03-15"
+    }
+  ],
+  "sports": [
+    "衝浪",
+    "攀岩",
+    "抱石",
+    "游泳",
+    "划船",
+    "田徑",
+    "籃球",
+    "拳擊",
+    "自行車",
+    "射箭",
+    "橄欖球",
+    "高爾夫球",
+    "體操",
+    "騎術",
+    "手球",
+    "曲棍球",
+    "柔道",
+    "卡巴迪",
+    "直排輪",
+    "空手道",
+    "跑步",
+    "跳水",
+    "桌球",
+    "射擊",
+    "滑水",
+    "足球",
+    "棒球",
+    "潛水",
+    "羽毛球",
+    "排球",
+    "舉重",
+    "溜冰",
+    "跆拳道",
+    "網球",
+    "滑板",
+    "瑜珈",
+    "健走",
+    "鐵人三項",
+    "滑雪",
+    "水上活動",
+    "戶外運動",
+    "室內運動",
+    "體操",
+    "國標舞",
+    "街舞",
+    "劍道",
+    "泰拳",
+    "自由搏擊",
+    "壁球"
+  ]
 }
