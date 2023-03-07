@@ -238,7 +238,7 @@
         "攀岩",
         "衝浪",
         "潛水",
-        "籃球"
+        "抱石"
       ],
       "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar21.jpg?raw=true",
       "id": 20
@@ -264,7 +264,7 @@
       "id": 22
     }
   ],
-  "abc": [
+  "activities": [
     {
       "id": 1,
       "title": "宜蘭外澳衝浪",
@@ -300,7 +300,8 @@
         "陽光"
       ],
       "groupId": "",
-      "updateDate": "2023-03-11"
+      "updateDate": "2023-03-11",
+      "isCancelled": false
     },
     {
       "id": 2,
@@ -335,7 +336,8 @@
         "挑戰"
       ],
       "groupId": "",
-      "updateDate": "2023-03-18"
+      "updateDate": "2023-03-18",
+      "isCancelled": false
     },
     {
       "id": 3,
@@ -367,7 +369,8 @@
         "運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-19"
+      "updateDate": "2023-03-19",
+      "isCancelled": false
     },
     {
       "id": 4,
@@ -402,7 +405,8 @@
         "旅遊"
       ],
       "groupId": "",
-      "updateDate": "2023-03-12"
+      "updateDate": "2023-03-12",
+      "isCancelled": false
     },
     {
       "id": 5,
@@ -436,7 +440,8 @@
         "社交活動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-18"
+      "updateDate": "2023-03-18",
+      "isCancelled": false
     },
     {
       "id": 6,
@@ -471,7 +476,8 @@
         "戶外"
       ],
       "groupId": "",
-      "updateDate": "2023-03-13"
+      "updateDate": "2023-03-13",
+      "isCancelled": false
     },
     {
       "id": 7,
@@ -505,7 +511,8 @@
         "戶外運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-17"
+      "updateDate": "2023-03-17",
+      "isCancelled": false
     },
     {
       "id": 8,
@@ -538,7 +545,8 @@
         "社交"
       ],
       "groupId": "",
-      "updateDate": "2023-03-17"
+      "updateDate": "2023-03-17",
+      "isCancelled": false
     },
     {
       "id": 9,
@@ -573,7 +581,8 @@
         "社交"
       ],
       "groupId": "",
-      "updateDate": "2023-03-19"
+      "updateDate": "2023-03-19",
+      "isCancelled": false
     },
     {
       "id": 10,
@@ -607,7 +616,8 @@
         "舞蹈課程"
       ],
       "groupId": "",
-      "updateDate": "2023-03-15"
+      "updateDate": "2023-03-15",
+      "isCancelled": false
     },
     {
       "id": 11,
@@ -641,7 +651,8 @@
         "跑步"
       ],
       "groupId": "",
-      "updateDate": "2023-03-16"
+      "updateDate": "2023-03-16",
+      "isCancelled": false
     },
     {
       "id": 12,
@@ -675,7 +686,8 @@
         "運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-18"
+      "updateDate": "2023-03-18",
+      "isCancelled": false
     },
     {
       "id": 13,
@@ -709,7 +721,8 @@
         "放鬆"
       ],
       "groupId": "",
-      "updateDate": "2023-03-13"
+      "updateDate": "2023-03-13",
+      "isCancelled": false
     },
     {
       "id": 14,
@@ -744,193 +757,231 @@
         "戶外運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-07"
+      "updateDate": "2023-03-07",
+      "isCancelled": false
     }
   ],
   "orders": [
     {
       "id": 1,
       "userId": 1,
-      "activityId": 7
+      "activityId": 7,
+      "isCancelled": false
     },
     {
       "id": 2,
       "userId": 6,
-      "activityId": 6
+      "activityId": 6,
+      "isCancelled": false
     },
     {
       "id": 3,
       "userId": 1,
-      "activityId": 11
+      "activityId": 11,
+      "isCancelled": false
     },
     {
       "id": 4,
       "userId": 3,
-      "activityId": 8
+      "activityId": 8,
+      "isCancelled": false
     },
     {
       "id": 5,
       "userId": 8,
-      "activityId": 1
+      "activityId": 1,
+      "isCancelled": false
     },
     {
       "id": 6,
       "userId": 5,
-      "activityId": 5
+      "activityId": 5,
+      "isCancelled": false
     },
     {
       "id": 7,
       "userId": 2,
-      "activityId": 11
+      "activityId": 11,
+      "isCancelled": false
     },
     {
       "id": 8,
       "userId": 7,
-      "activityId": 3
+      "activityId": 3,
+      "isCancelled": false
     },
     {
       "id": 9,
       "userId": 4,
-      "activityId": 11
+      "activityId": 11,
+      "isCancelled": false
     },
     {
       "id": 10,
       "userId": 5,
-      "activityId": 12
+      "activityId": 12,
+      "isCancelled": false
     },
     {
       "id": 11,
       "userId": 2,
-      "activityId": 3
+      "activityId": 3,
+      "isCancelled": false
     },
     {
       "id": 12,
       "userId": 1,
-      "activityId": 14
+      "activityId": 14,
+      "isCancelled": false
     },
     {
       "id": 13,
       "userId": 8,
-      "activityId": 10
+      "activityId": 10,
+      "isCancelled": false
     },
     {
       "id": 14,
       "userId": 7,
-      "activityId": 8
+      "activityId": 8,
+      "isCancelled": false
     },
     {
       "id": 15,
       "userId": 4,
-      "activityId": 5
+      "activityId": 5,
+      "isCancelled": false
     },
     {
       "id": 16,
       "userId": 1,
-      "activityId": 2
+      "activityId": 2,
+      "isCancelled": false
     },
     {
       "id": 17,
       "userId": 2,
-      "activityId": 2
+      "activityId": 2,
+      "isCancelled": false
     },
     {
       "id": 18,
       "userId": 3,
-      "activityId": 2
+      "activityId": 2,
+      "isCancelled": false
     },
     {
       "id": 19,
       "userId": 5,
-      "activityId": 7
+      "activityId": 7,
+      "isCancelled": false
     },
     {
       "id": 20,
       "userId": 10,
-      "activityId": 6
+      "activityId": 6,
+      "isCancelled": false
     },
     {
       "id": 21,
       "userId": 9,
-      "activityId": 11
+      "activityId": 11,
+      "isCancelled": false
     },
     {
       "id": 22,
       "userId": 4,
-      "activityId": 14
+      "activityId": 14,
+      "isCancelled": false
     },
     {
       "id": 23,
       "userId": 8,
-      "activityId": 3
+      "activityId": 3,
+      "isCancelled": false
     },
     {
       "id": 24,
       "userId": 1,
-      "activityId": 8
+      "activityId": 8,
+      "isCancelled": false
     },
     {
       "id": 25,
       "userId": 7,
-      "activityId": 9
+      "activityId": 9,
+      "isCancelled": false
     },
     {
       "id": 26,
       "userId": 6,
-      "activityId": 7
+      "activityId": 7,
+      "isCancelled": false
     },
     {
       "id": 27,
       "userId": 3,
-      "activityId": 5
+      "activityId": 5,
+      "isCancelled": false
     },
     {
       "id": 28,
       "userId": 17,
-      "activityId": 11
+      "activityId": 11,
+      "isCancelled": false
     },
     {
       "id": 29,
       "userId": 5,
-      "activityId": 14
+      "activityId": 14,
+      "isCancelled": false
     },
     {
       "id": 30,
       "userId": 7,
-      "activityId": 6
+      "activityId": 6,
+      "isCancelled": false
     },
     {
       "id": 31,
       "userId": 19,
-      "activityId": 3
+      "activityId": 3,
+      "isCancelled": false
     },
     {
       "id": 32,
       "userId": 20,
-      "activityId": 3
+      "activityId": 3,
+      "isCancelled": false
     },
     {
       "id": 33,
       "userId": 20,
-      "activityId": 4
+      "activityId": 4,
+      "isCancelled": false
     },
     {
       "id": 34,
       "userId": 20,
-      "activityId": 5
+      "activityId": 5,
+      "isCancelled": false
     },
     {
       "id": 35,
       "userId": 20,
-      "activityId": 6
+      "activityId": 6,
+      "isCancelled": false
     },
     {
       "id": 36,
       "userId": 20,
-      "activityId": 7
+      "activityId": 7,
+      "isCancelled": false
     },
     {
       "userId": 20,
       "activityId": 12,
+      "isCancelled": false,
       "id": 37
     }
   ],
@@ -946,6 +997,7 @@
       "id": 1,
       "userId": "1",
       "activityId": "2",
+      "isCancelled": false,
       "content": "",
       "updateDate": "2023-03-15"
     }
@@ -956,7 +1008,8 @@
       "userId": "1",
       "messageId": "2",
       "content": "",
-      "updateDate": "2023-03-15"
+      "updateDate": "2023-03-15",
+      "isCancelled": false
     }
   ],
   "sports": [
@@ -1017,7 +1070,8 @@
     {
       "id": 1,
       "userId": "1",
-      "activityId": "2"
+      "activityId": "2",
+      "isCancelled": false
     }
   ]
 }
