@@ -278,7 +278,7 @@
       ],
       "description": "這個周末一起去宜蘭外澳衝浪吧！",
       "content": "<h2>如果你正在尋找一個有趣且能夠鍛煉身體的運動項目，那麼打羽球就是你不容錯過的選擇。</h2><h2>這項運動<span style=\"color: rgb(0, 138, 0);\">不僅能夠鍛鍊身體，還能增強腦力、協調能力</span>和精細動作技巧。</h2><h2><br></h2><h2>我們的揪團將會到一個<span style=\"color: rgb(230, 0, 0);\">高素質的羽球場</span>，提供完善的設施。任何人都能在這裡找到適合自己的運動水平的對手與夥伴。</h2><h2><br></h2><h2>在運動之後，我們也可以一起享用美味的午餐，讓大家能夠在輕鬆愉悅的氛圍中放鬆身心。</h2><h2>如果你對打羽球感興趣，不妨加入我們的揪團，一起體驗這項激動人心的運動。我們期待著您的加入！</h2>",
-      "date": "2023-03-16",
+      "date": "2023-03-20",
       "startTime": {
         "time": "07:30"
       },
@@ -288,9 +288,9 @@
       "paymentMethod": "各付各的",
       "status": "",
       "tags": [
-        "抱石",
+        "戶外活動",
         "游泳",
-        "自行車",
+        "宜蘭",
         "衝浪",
         "水上活動"
       ],
@@ -317,7 +317,7 @@
       ],
       "description": "來挑戰台灣最高峰吧！",
       "content": "<h2>玉山山峰海拔3952公尺，是台灣最高峰，也是眾多登山客的夢想目標之一。</h2><h2>在這次登山揪團中，我們將會攀登西峰、南峰、北峰，體驗玉山群峰的風光，以及挑戰自我。</h2><h2><br></h2><h2>這是一項高強度的運動，需要有足夠的體能和心理準備。但是，我們的團隊將會有經驗豐富的專業嚮導帶領，確保大家的安全和順利登頂。</h2><h2><br></h2><h2>一起挑戰台灣最高峰吧！我們期待著您的加入。</h2>",
-      "date": "2023-06-01",
+      "date": "2023-04-01",
       "startTime": {
         "time": "04:00"
       },
@@ -326,10 +326,11 @@
       "costPerPerson": 3000,
       "paymentMethod": "各付各的",
       "tags": [
-        "戶外運動",
+        "戶外活動",
         "登山",
         "自然風景",
-        "挑戰"
+        "挑戰",
+        "攀岩"
       ],
       "groupId": "",
       "updateDate": "2023-03-18",
@@ -354,17 +355,19 @@
       ],
       "description": "想一起來打籃球嗎？快來報名參加這個週末的橋下籃球小聚吧！",
       "content": "這次活動我們將在信義區某個橋下的籃球場一起打球，讓大家盡情投籃、暢快奔跑。參加活動的人數限定在10人以內，請大家務必準時到場。",
-      "date": "2023-03-18",
+      "date": "2023-03-21",
       "startTime": {
         "time": "14:00"
       },
       "maxJoinNum": 10,
       "costPerPerson": 0,
-      "paymentMethod": "各付各的",
+      "paymentMethod": "我請客",
       "tags": [
         "籃球",
         "橋下籃球",
-        "運動"
+        "運動",
+        "戶外活動",
+        "團隊運動"
       ],
       "groupId": "",
       "updateDate": "2023-03-19",
@@ -395,13 +398,13 @@
       },
       "maxJoinNum": 8,
       "costPerPerson": 2500,
-      "paymentMethod": "信用卡",
+      "paymentMethod": "各付各的",
       "tags": [
         "室內抱石",
         "攀岩",
         "運動",
-        "南投縣",
-        "旅遊"
+        "台北市",
+        "室內運動"
       ],
       "groupId": "",
       "updateDate": "2023-03-12",
@@ -432,15 +435,16 @@
       },
       "maxJoinNum": 10,
       "costPerPerson": 500,
-      "paymentMethod": "現場付款",
+      "paymentMethod": "我請客",
       "tags": [
-        "室內游泳",
-        "游泳聚會",
+        "游泳",
+        "聚會",
         "水中活動",
-        "社交活動"
+        "社交活動",
+        "室內運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-18",
+      "updateDate": "2023-03-17",
       "isCancelled": false
     },
     {
@@ -468,13 +472,13 @@
       },
       "maxJoinNum": 10,
       "costPerPerson": 500,
-      "paymentMethod": "現場支付",
+      "paymentMethod": "我請客",
       "tags": [
         "單車",
         "運動",
-        "台灣",
-        "淡水",
-        "戶外"
+        "自行車",
+        "三峽區",
+        "戶外活動"
       ],
       "groupId": "",
       "updateDate": "2023-03-13",
@@ -508,9 +512,10 @@
       "paymentMethod": "各付各的",
       "tags": [
         "城市路跑",
-        "社交",
-        "健身",
-        "戶外運動"
+        "路跑",
+        "有氧運動",
+        "戶外活動",
+        "跑步"
       ],
       "groupId": "",
       "updateDate": "2023-03-17",
@@ -541,12 +546,13 @@
       },
       "maxJoinNum": 16,
       "costPerPerson": 300,
-      "paymentMethod": "現場支付",
+      "paymentMethod": "各付各的",
       "tags": [
         "排球",
         "揪團",
         "運動",
-        "社交"
+        "團隊運動",
+        "室內運動"
       ],
       "groupId": "",
       "updateDate": "2023-03-17",
@@ -571,7 +577,7 @@
       ],
       "description": "這次揪團希望能找到志同道合的棒球愛好者，一起在美麗的戶外球場上盡情揮灑，享受運動樂趣。",
       "content": "比賽方式為五局三勝制，比賽過程中將有專業裁判進行裁判。比賽結束後，我們還會一起享用美味的烤肉及啤酒，歡迎大家一同參加！",
-      "date": "2023-03-13",
+      "date": "2023-03-19",
       "startTime": {
         "time": "13:00"
       },
@@ -580,10 +586,10 @@
       "paymentMethod": "現場付款",
       "tags": [
         "棒球",
-        "戶外運動",
-        "比賽",
-        "烤肉",
-        "社交"
+        "戶外活動",
+        "室內運動",
+        "經典賽",
+        "競賽"
       ],
       "groupId": "",
       "updateDate": "2023-03-19",
@@ -614,7 +620,7 @@
       },
       "maxJoinNum": 20,
       "costPerPerson": 2000,
-      "paymentMethod": "信用卡",
+      "paymentMethod": "各付各的",
       "tags": [
         "國標舞",
         "學習班",
@@ -688,13 +694,13 @@
       },
       "maxJoinNum": 20,
       "costPerPerson": 300,
-      "paymentMethod": "現場支付",
+      "paymentMethod": "各付各的",
       "tags": [
         "溜冰",
         "冬日活動",
-        "室內活動",
+        "室內運動",
         "社交",
-        "運動"
+        "台北市"
       ],
       "groupId": "",
       "updateDate": "2023-03-18",
@@ -725,7 +731,7 @@
       },
       "maxJoinNum": 10,
       "costPerPerson": 500,
-      "paymentMethod": "現場付款",
+      "paymentMethod": "我請客",
       "tags": [
         "瑜珈",
         "晨間",
@@ -755,19 +761,19 @@
       ],
       "description": "享受清涼的海底世界，潛水新手也適合參加",
       "content": "本次潛水之旅將帶您深入墾丁海域，欣賞豐富的海洋生態和美麗的珊瑚，透過專業的導師引領，即使是初學者也可以放心體驗。潛水地點附近設施完善，潛水前會有詳細的說明和教學。",
-      "date": "2023-07-15",
+      "date": "2023-03-25",
       "startTime": {
         "time": "09:00"
       },
       "maxJoinNum": 6,
       "costPerPerson": 3500,
-      "paymentMethod": "線上刷卡",
+      "paymentMethod": "各付各的",
       "tags": [
         "潛水",
         "墾丁",
         "海洋生態",
         "初學者",
-        "戶外運動"
+        "戶外活動"
       ],
       "groupId": "",
       "updateDate": "2023-03-07",
@@ -783,7 +789,7 @@
         24.392174,
         120.720978
       ],
-      "date": "2023-03-15",
+      "date": "2023-04-13",
       "startTime": {
         "time": "06:00"
       },
@@ -834,11 +840,11 @@
       "dayOfWeekText": "星期三",
       "userId": "20",
       "tags": [
-        "攀岩",
-        "籃球",
-        "足球",
-        "慢跑",
-        "游泳"
+        "獨木舟",
+        "戶外活動",
+        "清水斷崖",
+        "花蓮",
+        "水上活動"
       ],
       "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity15.jpg?raw=true",
       "imgs": [
@@ -852,163 +858,6 @@
       "updateDate": 1678202232719,
       "isCancelled": true,
       "id": 16
-    },
-    {
-      "title": "花蓮清水斷崖獨木舟",
-      "description": "一起划獨木舟",
-      "city": "臺北市",
-      "district": "秀林鄉",
-      "address": "972臺北市秀林鄉台9丁線",
-      "location": [
-        24.2189,
-        121.692574
-      ],
-      "date": "2023-03-15",
-      "startTime": {
-        "time": "06:00"
-      },
-      "paymentMethod": "各付各的",
-      "costPerPerson": 1000,
-      "joinNum": {
-        "number": 12
-      },
-      "newDate": "03/15",
-      "dayOfWeekText": "星期三",
-      "userId": "20",
-      "tags": [
-        "籃球",
-        "足球",
-        "慢跑",
-        "游泳",
-        "攀岩"
-      ],
-      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity15.jpg?raw=true",
-      "imgs": [
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1501.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1502.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1503.jpg?raw=true"
-      ],
-      "content": "<p><span style=\"background-color: rgb(216, 191, 178);\">如果你正在尋找一個有趣且能夠鍛煉身體的運動項目，那麼打羽球就是你不容錯過的選擇。</span></p><p><span style=\"background-color: rgb(216, 191, 178);\">這項運動不僅能夠鍛鍊身體，還能增強腦力、協調能力和精細動作技巧。</span></p><p><br></p><p><span style=\"background-color: rgb(216, 191, 178);\">我們的揪團將會到一個高素質的羽球場，提供完善的設施。任何人都能在這裡找到適合自己的運動水平的對手與夥伴</span></p>",
-      "maxJoinNum": 12,
-      "groupId": "",
-      "updateDate": 1678242089795,
-      "isCancelled": false,
-      "id": 17
-    },
-    {
-      "title": "123",
-      "description": "123",
-      "city": "臺北市",
-      "district": "北投區",
-      "address": "123",
-      "date": "2023-03-21",
-      "startTime": {
-        "time": "08:30"
-      },
-      "paymentMethod": "我請客",
-      "costPerPerson": 123443,
-      "maxJoinNum": 3,
-      "newDate": "03/21",
-      "dayOfWeekText": "星期二",
-      "userId": "20",
-      "tags": [
-        "滑水",
-        "瑜珈"
-      ],
-      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity15.jpg?raw=true",
-      "imgs": [
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1501.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1502.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1503.jpg?raw=true"
-      ],
-      "content": "",
-      "cost": 123443,
-      "groupId": "",
-      "updateDate": 1678674561268,
-      "isCancelled": true,
-      "location": [
-        25.1151759,
-        121.515018
-      ],
-      "id": 18
-    },
-    {
-      "title": "123sdf",
-      "description": "123sadf",
-      "city": "基隆市",
-      "district": "信義區",
-      "address": "123",
-      "date": "2023-03-28",
-      "startTime": {
-        "time": "08:15"
-      },
-      "paymentMethod": "我請客",
-      "costPerPerson": 1234123,
-      "maxJoinNum": 4,
-      "newDate": "03/28",
-      "dayOfWeekText": "星期二",
-      "userId": "20",
-      "tags": [
-        "自行車",
-        "手球",
-        "空手道"
-      ],
-      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity15.jpg?raw=true",
-      "imgs": [
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1501.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1502.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1503.jpg?raw=true"
-      ],
-      "content": "",
-      "cost": 1234123,
-      "groupId": "",
-      "updateDate": 1678680520634,
-      "isCancelled": true,
-      "location": [
-        25.1284336,
-        121.7822278
-      ],
-      "id": 19
-    },
-    {
-      "title": "ㄉˇ",
-      "description": "123",
-      "city": "基隆市",
-      "district": "信義區",
-      "address": "2134",
-      "date": "2023-03-28",
-      "startTime": {
-        "time": "08:00"
-      },
-      "paymentMethod": "我請客",
-      "costPerPerson": 2341,
-      "maxJoinNum": 3,
-      "newDate": "03/28",
-      "dayOfWeekText": "星期二",
-      "userId": "20",
-      "tags": [
-        "騎術",
-        "手球",
-        "空手道",
-        "跑步",
-        "高爾夫球"
-      ],
-      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity15.jpg?raw=true",
-      "imgs": [
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1501.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1502.jpg?raw=true",
-        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1503.jpg?raw=true"
-      ],
-      "content": "",
-      "cost": 2341,
-      "groupId": "",
-      "updateDate": 1678692918916,
-      "isCancelled": true,
-      "location": [
-        25.1284336,
-        121.7822278
-      ],
-      "id": 20
     }
   ],
   "orders": [
@@ -1322,6 +1171,14 @@
       "content": "不用喔",
       "updateTime": 1678709400000,
       "isCancelled": false
+    },
+    {
+      "userId": "20",
+      "messageId": 2,
+      "content": "123",
+      "updateTime": 1678868255307,
+      "isCancelled": false,
+      "id": 2
     }
   ],
   "sports": [
