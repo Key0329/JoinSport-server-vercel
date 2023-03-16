@@ -295,7 +295,7 @@
         "水上活動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-23",
+      "updateDate": "2023-03-13",
       "isCancelled": false
     },
     {
@@ -333,7 +333,7 @@
         "攀岩"
       ],
       "groupId": "",
-      "updateDate": "2023-03-18",
+      "updateDate": "2023-03-16",
       "isCancelled": false
     },
     {
@@ -370,7 +370,7 @@
         "團隊運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-19",
+      "updateDate": "2023-03-14",
       "isCancelled": false
     },
     {
@@ -444,7 +444,7 @@
         "室內運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-17",
+      "updateDate": "2023-03-11",
       "isCancelled": false
     },
     {
@@ -481,7 +481,7 @@
         "戶外活動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-13",
+      "updateDate": "2023-03-16",
       "isCancelled": false
     },
     {
@@ -518,7 +518,7 @@
         "跑步"
       ],
       "groupId": "",
-      "updateDate": "2023-03-17",
+      "updateDate": "2023-03-14",
       "isCancelled": false
     },
     {
@@ -555,7 +555,7 @@
         "室內運動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-17",
+      "updateDate": "2023-03-15",
       "isCancelled": false
     },
     {
@@ -592,7 +592,7 @@
         "競賽"
       ],
       "groupId": "",
-      "updateDate": "2023-03-19",
+      "updateDate": "2023-03-16",
       "isCancelled": false
     },
     {
@@ -629,7 +629,7 @@
         "舞蹈課程"
       ],
       "groupId": "",
-      "updateDate": "2023-03-29",
+      "updateDate": "2023-03-10",
       "isCancelled": false
     },
     {
@@ -649,7 +649,7 @@
         23.859288,
         120.916135
       ],
-      "description": "參加澎湖鐵人三項賽事，挑戰極限，征服自己！",
+      "description": "參加鐵人三項賽事，挑戰極限，征服自己！",
       "content": "這次的鐵人三項比賽包括游泳、自行車和跑步三項競賽，跨越澎湖環島，長達 226 公里的賽程，讓您可以挑戰自我，征服極限！",
       "date": "2023-03-29",
       "startTime": {
@@ -660,13 +660,13 @@
       "paymentMethod": "我請客",
       "tags": [
         "鐵人三項",
-        "澎湖",
+        "田徑",
         "游泳",
         "自行車",
         "跑步"
       ],
       "groupId": "",
-      "updateDate": "2023-03-16",
+      "updateDate": "2023-03-14",
       "isCancelled": false
     },
     {
@@ -703,7 +703,7 @@
         "台北市"
       ],
       "groupId": "",
-      "updateDate": "2023-03-18",
+      "updateDate": "2023-03-14",
       "isCancelled": false
     },
     {
@@ -776,7 +776,7 @@
         "戶外活動"
       ],
       "groupId": "",
-      "updateDate": "2023-03-07",
+      "updateDate": "2023-03-11",
       "isCancelled": false
     },
     {
@@ -1112,6 +1112,48 @@
       "activityId": 5,
       "isCancelled": false,
       "id": 42
+    },
+    {
+      "userId": 18,
+      "activityId": 14,
+      "isCancelled": false,
+      "id": 43
+    },
+    {
+      "userId": 19,
+      "activityId": 14,
+      "isCancelled": false,
+      "id": 44
+    },
+    {
+      "userId": 7,
+      "activityId": 14,
+      "isCancelled": false,
+      "id": 45
+    },
+    {
+      "userId": 1,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 46
+    },
+    {
+      "userId": 2,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 47
+    },
+    {
+      "userId": 4,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 48
+    },
+    {
+      "userId": 17,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 49
     }
   ],
   "locations": [
